@@ -4,3 +4,6 @@ build/
 yaml-cpp.xcodeproj/project.pbxproj
 yaml-cpp.xcodeproj/xcuserdata/vn50tzy.xcuserdatad/xcschemes/xcschememanagement.plist
 bin
+yaml-cpp.vcxproj
+yaml-cpp.vcxproj.filters
+bin-int/
